@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyush280599
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Blockchain and Web 3.0
+- 🌱 I’m currently learning Java and Web Development
 - 💞️ I’m looking to collaborate on the projects mentioned above
 - 📫 How to reach me Email:piyush.mishra.2805@gmail.com
 
