@@ -12,7 +12,9 @@
 
 - 🌱 I’m currently learning **Spring boot and ReactJs**
 
-- 👯 I’m looking to collaborate on **Java projects**
+- I’m looking to collaborate on **Java projects**
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush280599&theme=dark&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
