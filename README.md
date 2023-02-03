@@ -23,9 +23,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush280599&label=Profile%20views&color=0e75b6&style=flat" alt="piyush280599" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush280599" alt="piyush280599" /></a> </p>
 
 
+
+![Piyush's GitHub stats](https://github-profile-trophy.vercel.app/?username=piyush280599&theme=darkhub)
+<br>
 
 
 
