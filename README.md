@@ -29,10 +29,3 @@
 ![Piyush's GitHub stats](https://github-profile-trophy.vercel.app/?username=piyush280599&theme=darkhub)
 <br>
 
-
-
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush280599&theme=dark&show_icons=true)
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=piyush280599&theme=highcontrast)](https://git.io/streak-stats)
-
