@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-- 🔭 I’m currently working on **Online Diagnostic Lab Reporting System**
+- 🔭 I’m currently working on **iGaming Sportsbook app**
 
-- 🌱 I’m currently learning **Spring boot and ReactJs**
+- 🌱 I’m currently learning **NextJs**
 
-- I’m looking to collaborate on **Java projects**
+- I’m looking to collaborate on **Frontend projects**
 
 
 <h3 align="left">Connect with me:</h3>
